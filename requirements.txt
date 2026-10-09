@@ -1,0 +1,9 @@
+streamlit
+sentence-transformers
+chromadb
+transformers
+torch
+sentencepiece
+groq
+fastapi
+uvicorn
